@@ -1,0 +1,2 @@
+# TermDeco
+A terminal decorator
